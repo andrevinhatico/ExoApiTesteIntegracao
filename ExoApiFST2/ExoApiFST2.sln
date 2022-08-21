@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExoApiFST2", "ExoApiFST2\ExoApiFST2.csproj", "{F3F2D1F3-F2B5-4381-BFBE-302FDD048A35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteIntegracao", "TesteIntegracao\TesteIntegracao.csproj", "{EAD8F913-0FF3-4D6D-926A-84EA7F3FBA40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3F2D1F3-F2B5-4381-BFBE-302FDD048A35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F2D1F3-F2B5-4381-BFBE-302FDD048A35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F2D1F3-F2B5-4381-BFBE-302FDD048A35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F2D1F3-F2B5-4381-BFBE-302FDD048A35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAD8F913-0FF3-4D6D-926A-84EA7F3FBA40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD8F913-0FF3-4D6D-926A-84EA7F3FBA40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD8F913-0FF3-4D6D-926A-84EA7F3FBA40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD8F913-0FF3-4D6D-926A-84EA7F3FBA40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8938BF83-6833-46DE-8E17-908F0913F8E0}
+	EndGlobalSection
+EndGlobal
